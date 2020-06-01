@@ -5,5 +5,4 @@ G = nx.barbell_graph(4,2)
 
 nx.draw(G)
 
-
 plt.show()
