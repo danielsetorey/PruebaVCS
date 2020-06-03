@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: TFG-TEST
+plugins:
+  - search
+  - bibtex:
+      bib_file: "refs2.bib"
+      cite_style: "pandoc"

@@ -17,3 +17,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 ## Prueba
+
+
+
+Vamos a probar una referencia y otra [@Kikas2017]
+
+
+
+### Referencias
+
+\bibliography
+
+
+
