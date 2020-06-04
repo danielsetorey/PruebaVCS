@@ -3,6 +3,9 @@ python:
   - "3.6"
 install:
   - pip install -r requirements.txt
+  - pip install pytest-cov codecov
   - pip install pandas
 script:
-  - pytest
+  - pytest --cov=./
+after_success:
+  - codecov
