@@ -1,4 +1,4 @@
-import pytest
+
 from pruebas import suma
 
 
